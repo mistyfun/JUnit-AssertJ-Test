@@ -1,4 +1,4 @@
-package org.example;
+package org.example.todo;
 
 import org.assertj.core.data.Index;
 import org.junit.jupiter.api.Test;

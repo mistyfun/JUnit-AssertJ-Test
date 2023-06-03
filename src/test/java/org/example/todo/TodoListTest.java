@@ -1,5 +1,7 @@
-package org.example;
+package org.example.todo;
 
+import org.example.todo.Todo;
+import org.example.todo.TodoList;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;
